@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Jeremiah/Google Drive (loganjer@mail.gvsu.edu)/Project1-Relability/Client/main.c
+sys/socket.h
+-
+netinet/in.h
+-
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+errno.h
+-
+stdlib.h
+-
+sys/stat.h
+-
+ctype.h
+-
+
